@@ -5,7 +5,7 @@ from gtts import gTTS
 import uuid
 import os
 
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+openai.api_key = st.secrets["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"]
 
 st.set_page_config(page_title="TeacherBot - M&A English School", page_icon="🗽", layout="centered")
 
